@@ -1,4 +1,4 @@
-<img src="[img_girl.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Faliadosmudancas.com.br%2F%3Fw%3Ddribbble-by-versastock-qq-O85JOFY&psig=AOvVaw2Iaz-sXUG9shKA5MgZp0Ay&ust=1704099779380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiv-syouYMDFQAAAAAdAAAAABAJ)" aling="right" alt="Codding" width="400">
+<img src="img_girl.jpg" alt="Hello" width="500" height="600">
 # 💫 About Me:
 📫 How to reach me dabhimohit2304@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1SauBy400xYasLMeYJPMRCMOnv-5lMwsf/view?usp=drive_link<br><br>⚡ Fun fact I am funny
 
