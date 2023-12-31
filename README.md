@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Dabhi</h1>
 <h3 align="center">A passionate Odoo developer from India</h3>
 
-<img align="right" alt="Odoo" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sevenstarwebsolutions.com%2Fodoo-development-company%2F&psig=AOvVaw17c3NHgVblpDEE7K-l_cuV&ust=1704099313094000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKix5eWmuYMDFQAAAAAdAAAAABAI">
+<img align="right" alt="Odoo" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sevenstarwebsolutions.com%2Fodoo-development-company%2F&psig=AOvVaw17c3NHgVblpDEE7K-l_cuV&ust=1704099313094000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKix5eWmuYMDFQAAAAAdAAAAABAI](https://www.google.com/url?sa=i&url=https%3A%2F%2Faliadosmudancas.com.br%2F%3Fw%3Ddribbble-by-versastock-qq-O85JOFY&psig=AOvVaw2Iaz-sXUG9shKA5MgZp0Ay&ust=1704099779380000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiv-syouYMDFQAAAAAdAAAAABAJ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dabhimohitt&label=Profile%20views&color=0e75b6&style=flat" alt="dabhimohitt" /> </p>
 
