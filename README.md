@@ -1,7 +1,8 @@
 ![logo](https://github.com/Dabhimohitt/Dabhimohitt/blob/main/Banner.jpeg)
-<img src="https://github.com/Dabhimohitt/Dabhimohitt/blob/main/Hello.gif" alt="Hello" width="500" height="600">
 # 💫 About Me:
 📫 How to reach me dabhimohit2304@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1SauBy400xYasLMeYJPMRCMOnv-5lMwsf/view?usp=drive_link<br><br>⚡ Fun fact I am funny
+<img src="https://github.com/Dabhimohitt/Dabhimohitt/blob/main/Hello.gif" align="right" alt="Hello" width="400">
+
 
 
 ## 🌐 Socials:
